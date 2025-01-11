@@ -1,4 +1,4 @@
-# FD Calculator
+# FINANCE DEPOSIT CALCULATOR
 
 A user-friendly Fixed Deposit (FD) Calculator that helps users calculate the maturity amount of a fixed deposit based on the principal amount, annual interest rate, and tenure. This tool is ideal for financial planning and understanding investment growth using simple interest.
 
