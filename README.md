@@ -29,14 +29,11 @@ Maturity Amount = Principal + FD(Principle)
 
 ```
 
-````bash
-
 Where:
 - **Principal**: The initial deposit amount.
 - **Rate**: The annual interest rate (in %).
 - **Tenure**: The time period (in years).
 
-````
 ---
 
 ## Benefits
