@@ -58,3 +58,26 @@ Where:
    ```bash
    git clone https://github.com/your-username/fd-calculator.git
 
+2. **Open the Application**:
+    Open the index.html file in any modern web browser.
+
+3. **Enter Details**:
+    Fill in the principal amount, interest rate, and tenure.
+
+4. **Calculate**:
+    Click the "Calculate" button to see the maturity amount.
+
+---
+
+# Example
+
+For a principal amount of ₹10,000, an interest rate of 5%, and a tenure of 3 years, the calculation will be:
+
+```
+
+java
+
+Simple Interest = (10,000 * 5 * 3) / 100 = ₹1,500
+Maturity Amount = Principal + Simple Interest = ₹10,000 + ₹1,500 = ₹11,500
+
+```
