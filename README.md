@@ -75,9 +75,19 @@ For a principal amount of ₹10,000, an interest rate of 5%, and a tenure of 3 y
 
 ```
 
-java
-
 Simple Interest = (10,000 * 5 * 3) / 100 = ₹1,500
 Maturity Amount = Principal + Simple Interest = ₹10,000 + ₹1,500 = ₹11,500
 
 ```
+---
+
+# Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+```
+
+Email: guruprasad6200@gmail.com
+```
+---
+
